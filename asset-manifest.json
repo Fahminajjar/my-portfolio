@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.f312b651.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.6eb4e499.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.6eb4e499.chunk.js.map",
-    "runtime-main.js": "/my-portfolio/static/js/runtime-main.e00d2e52.js",
-    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.e00d2e52.js.map",
+    "main.js": "/my-portfolio/static/js/main.73957a52.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.73957a52.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.9d1d519f.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.9d1d519f.js.map",
     "static/js/2.1cc6d741.chunk.js": "/my-portfolio/static/js/2.1cc6d741.chunk.js",
     "static/js/2.1cc6d741.chunk.js.map": "/my-portfolio/static/js/2.1cc6d741.chunk.js.map",
     "static/css/3.00373544.chunk.css": "/my-portfolio/static/css/3.00373544.chunk.css",
     "static/js/3.693f07e8.chunk.js": "/my-portfolio/static/js/3.693f07e8.chunk.js",
     "static/js/3.693f07e8.chunk.js.map": "/my-portfolio/static/js/3.693f07e8.chunk.js.map",
     "static/css/4.a922a401.chunk.css": "/my-portfolio/static/css/4.a922a401.chunk.css",
-    "static/js/4.5fd29e66.chunk.js": "/my-portfolio/static/js/4.5fd29e66.chunk.js",
-    "static/js/4.5fd29e66.chunk.js.map": "/my-portfolio/static/js/4.5fd29e66.chunk.js.map",
+    "static/js/4.f95e1af9.chunk.js": "/my-portfolio/static/js/4.f95e1af9.chunk.js",
+    "static/js/4.f95e1af9.chunk.js.map": "/my-portfolio/static/js/4.f95e1af9.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
-    "precache-manifest.3f5a190830f631601e88330910c45233.js": "/my-portfolio/precache-manifest.3f5a190830f631601e88330910c45233.js",
+    "precache-manifest.ed587586c80f4a00c2acb60668e8813e.js": "/my-portfolio/precache-manifest.ed587586c80f4a00c2acb60668e8813e.js",
     "service-worker.js": "/my-portfolio/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/my-portfolio/static/css/3.00373544.chunk.css.map",
     "static/css/4.a922a401.chunk.css.map": "/my-portfolio/static/css/4.a922a401.chunk.css.map",
@@ -51,9 +51,9 @@
     "static/media/talksCardBackAlt.svg": "/my-portfolio/static/media/talksCardBackAlt.b48e86c9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e00d2e52.js",
+    "static/js/runtime-main.9d1d519f.js",
     "static/js/2.1cc6d741.chunk.js",
     "static/css/main.f312b651.chunk.css",
-    "static/js/main.6eb4e499.chunk.js"
+    "static/js/main.73957a52.chunk.js"
   ]
 }
