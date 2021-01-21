@@ -304,8 +304,18 @@ const blogSection = {
 
   blogs: [
     {
+      url: "https://medium.com/edraak-engineering/how-to-build-restful-apis-the-unknown-hero-under-the-hood-part-1-4c1df16c0258",
+      title: "How to Build RESTful APIs? The Unknown Hero Under The Hood (Part 1)",
+      description: "The Unknown Hero Under The Hood"
+    },
+    {
+      url: "https://medium.com/edraak-engineering/how-to-build-restful-apis-the-unknown-hero-under-the-hood-part-2-fd2190455d4a",
+      title: "How to Build RESTful APIs? (Part 2)",
+      description: "Nine easy steps to build your RESTful API using Flask"
+    },
+    {
       url: "https://medium.com/edraak-engineering/personalization-in-online-learning-platforms-67519cf8d49d",
-      title: "Personalization in Online Learning Platforms",
+      title: "Personalization on Online Learning Platforms",
       description: "The Art of Recommendation Systems"
     }
   ],
